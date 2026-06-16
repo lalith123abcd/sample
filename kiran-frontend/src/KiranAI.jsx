@@ -181,9 +181,9 @@ export default function KiranAI({ onBack }) {
             <div style={styles.resultBox}>
               <div style={styles.statBox}>
                 <div style={styles.statLabel}>Kiran's Anger Level</div>
-                <div style={styles.statValue}>{kiranResult.anger_score ?? "?"}%</div>
+                <div style={styles.statValue}>{kiranResult.anger_level ?? "?"}%</div>
                 <div style={styles.angerMeter}>
-                  <div style={{ height: "100%", width: `${kiranResult.anger_score ?? 0}%`, background: getMeterColor(kiranResult.anger_score ?? 0), borderRadius: "7px", transition: "width 0.5s" }} />
+                  <div style={{ height: "100%", width: `${kiranResult.anger_level ?? 0}%`, background: getMeterColor(kiranResult.anger_level ?? 0), borderRadius: "7px", transition: "width 0.5s" }} />
                 </div>
               </div>
               {kiranResult.advice && (
