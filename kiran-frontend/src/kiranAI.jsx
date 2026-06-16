@@ -1,6 +1,7 @@
 import { useState } from "react";
 
-const API_URL = "http://127.0.0.1:5000";
+
+const API_URL = "https://panduai-backend.onrender.com";
 
 const styles = {
   container: {
