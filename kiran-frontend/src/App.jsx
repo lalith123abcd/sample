@@ -1,6 +1,6 @@
 import { useState } from 'react'
-import KiranAI from './KiranAI'
-import ChatWithPandu from './ChatWithPandu'
+import KiranAI from './KiranAI.jsx'
+import ChatWithPandu from './ChatWithPandu.jsx'
 
 function App() {
   const [screen, setScreen] = useState('home')
@@ -41,7 +41,7 @@ function App() {
           onClick={() => setScreen('chat')}
         >
           <div style={{ fontSize: '1.5rem' }}>💬</div>
-          <div style={{ fontWeight: 800, marginTop: '4px', color: '#a78bfa' }}>Chat with Pandu (Free)</div>
+          <div style={{ fontWeight: 800, marginTop: '4px', color: '#a78bfa' }}>Chat With Pandu(Free)</div>
           <div style={{ fontSize: '0.8rem', color: '#c4b5fd', marginTop: '2px' }}>No backend needed · Works offline ✨</div>
         </button>
       </div>
