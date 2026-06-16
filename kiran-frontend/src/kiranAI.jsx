@@ -5,7 +5,7 @@ const API_URL = "https://panduai-backend.onrender.com";
 
 const styles = {
   container: {
-    minHeight: "100vh",
+    minHeight: "110vh",
     background: "linear-gradient(135deg, #0a0a1a 0%, #0f0f2d 50%, #0a0a1a 100%)",
     display: "flex", justifyContent: "center", alignItems: "center",
     fontFamily: "'Segoe UI', Arial, sans-serif", color: "white", padding: "20px",
