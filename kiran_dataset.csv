@@ -1,0 +1,228 @@
+situation,trigger_type,severity,anger_level,block_probability,block_days,advice,punishment
+He sent 12 messages without waiting for a reply (1),message_spam,7,70,56,2,Handle message_spam appropriately,140 sorries
+He kept typing Kiran every minute (2),message_spam,7,72,59,2,Handle message_spam appropriately,140 sorries
+He sent messages after being told to stop (3),message_spam,7,74,62,2,Handle message_spam appropriately,140 sorries
+He flooded the chat with question marks (4),message_spam,7,76,65,2,Handle message_spam appropriately,140 sorries
+He sent five follow-up messages in a row (5),message_spam,7,78,68,2,Handle message_spam appropriately,140 sorries
+He sent 12 messages without waiting for a reply (6),message_spam,7,80,71,2,Handle message_spam appropriately,140 sorries
+He kept typing Kiran every minute (7),message_spam,7,82,74,2,Handle message_spam appropriately,140 sorries
+He sent messages after being told to stop (8),message_spam,7,84,77,2,Handle message_spam appropriately,140 sorries
+He flooded the chat with question marks (9),message_spam,7,86,56,2,Handle message_spam appropriately,140 sorries
+He sent five follow-up messages in a row (10),message_spam,7,88,59,2,Handle message_spam appropriately,140 sorries
+He sent 12 messages without waiting for a reply (11),message_spam,7,70,62,2,Handle message_spam appropriately,140 sorries
+He kept typing Kiran every minute (12),message_spam,7,72,65,2,Handle message_spam appropriately,140 sorries
+He sent messages after being told to stop (13),message_spam,7,74,68,2,Handle message_spam appropriately,140 sorries
+He flooded the chat with question marks (14),message_spam,7,76,71,2,Handle message_spam appropriately,140 sorries
+He sent five follow-up messages in a row (15),message_spam,7,78,74,2,Handle message_spam appropriately,140 sorries
+He sent 12 messages without waiting for a reply (16),message_spam,7,80,77,2,Handle message_spam appropriately,140 sorries
+He kept typing Kiran every minute (17),message_spam,7,82,56,2,Handle message_spam appropriately,140 sorries
+He sent messages after being told to stop (18),message_spam,7,84,59,2,Handle message_spam appropriately,140 sorries
+He flooded the chat with question marks (19),message_spam,7,86,62,2,Handle message_spam appropriately,140 sorries
+He sent five follow-up messages in a row (20),message_spam,7,88,65,2,Handle message_spam appropriately,140 sorries
+He sent 12 messages without waiting for a reply (21),message_spam,7,70,68,2,Handle message_spam appropriately,140 sorries
+He kept typing Kiran every minute (22),message_spam,7,72,71,2,Handle message_spam appropriately,140 sorries
+He sent messages after being told to stop (23),message_spam,7,74,74,2,Handle message_spam appropriately,140 sorries
+He flooded the chat with question marks (24),message_spam,7,76,77,2,Handle message_spam appropriately,140 sorries
+He sent five follow-up messages in a row (25),message_spam,7,78,56,2,Handle message_spam appropriately,140 sorries
+He sent 12 messages without waiting for a reply (26),message_spam,7,80,59,2,Handle message_spam appropriately,140 sorries
+He kept typing Kiran every minute (27),message_spam,7,82,62,2,Handle message_spam appropriately,140 sorries
+He sent messages after being told to stop (28),message_spam,7,84,65,2,Handle message_spam appropriately,140 sorries
+He kept asking after I clearly said no (1),boundary_violation,9,90,72,3,Handle boundary_violation appropriately,180 sorries
+He brought up a topic I asked him to drop (2),boundary_violation,9,92,75,3,Handle boundary_violation appropriately,180 sorries
+He ignored my request for space (3),boundary_violation,9,94,78,3,Handle boundary_violation appropriately,180 sorries
+He continued arguing after I ended the discussion (4),boundary_violation,9,96,81,3,Handle boundary_violation appropriately,180 sorries
+He pushed for an answer after refusal (5),boundary_violation,9,98,84,3,Handle boundary_violation appropriately,180 sorries
+He kept asking after I clearly said no (6),boundary_violation,9,100,87,3,Handle boundary_violation appropriately,180 sorries
+He brought up a topic I asked him to drop (7),boundary_violation,9,100,90,3,Handle boundary_violation appropriately,180 sorries
+He ignored my request for space (8),boundary_violation,9,100,93,3,Handle boundary_violation appropriately,180 sorries
+He continued arguing after I ended the discussion (9),boundary_violation,9,100,72,3,Handle boundary_violation appropriately,180 sorries
+He pushed for an answer after refusal (10),boundary_violation,9,100,75,3,Handle boundary_violation appropriately,180 sorries
+He kept asking after I clearly said no (11),boundary_violation,9,90,78,3,Handle boundary_violation appropriately,180 sorries
+He brought up a topic I asked him to drop (12),boundary_violation,9,92,81,3,Handle boundary_violation appropriately,180 sorries
+He ignored my request for space (13),boundary_violation,9,94,84,3,Handle boundary_violation appropriately,180 sorries
+He continued arguing after I ended the discussion (14),boundary_violation,9,96,87,3,Handle boundary_violation appropriately,180 sorries
+He pushed for an answer after refusal (15),boundary_violation,9,98,90,3,Handle boundary_violation appropriately,180 sorries
+He kept asking after I clearly said no (16),boundary_violation,9,100,93,3,Handle boundary_violation appropriately,180 sorries
+He brought up a topic I asked him to drop (17),boundary_violation,9,100,72,3,Handle boundary_violation appropriately,180 sorries
+He ignored my request for space (18),boundary_violation,9,100,75,3,Handle boundary_violation appropriately,180 sorries
+He continued arguing after I ended the discussion (19),boundary_violation,9,100,78,3,Handle boundary_violation appropriately,180 sorries
+He pushed for an answer after refusal (20),boundary_violation,9,100,81,3,Handle boundary_violation appropriately,180 sorries
+He kept asking after I clearly said no (21),boundary_violation,9,90,84,3,Handle boundary_violation appropriately,180 sorries
+He brought up a topic I asked him to drop (22),boundary_violation,9,92,87,3,Handle boundary_violation appropriately,180 sorries
+He ignored my request for space (23),boundary_violation,9,94,90,3,Handle boundary_violation appropriately,180 sorries
+He continued arguing after I ended the discussion (24),boundary_violation,9,96,93,3,Handle boundary_violation appropriately,180 sorries
+He pushed for an answer after refusal (25),boundary_violation,9,98,72,3,Handle boundary_violation appropriately,180 sorries
+He kept asking after I clearly said no (26),boundary_violation,9,100,75,3,Handle boundary_violation appropriately,180 sorries
+He brought up a topic I asked him to drop (27),boundary_violation,9,100,78,3,Handle boundary_violation appropriately,180 sorries
+He ignored my request for space (28),boundary_violation,9,100,81,3,Handle boundary_violation appropriately,180 sorries
+He called me cat (1),pet_name,8,80,64,2,Handle pet_name appropriately,160 sorries
+He called me kitty (2),pet_name,8,82,67,2,Handle pet_name appropriately,160 sorries
+He saved my contact as cat (3),pet_name,8,84,70,2,Handle pet_name appropriately,160 sorries
+He introduced me as kitty (4),pet_name,8,86,73,2,Handle pet_name appropriately,160 sorries
+He used a pet name after being warned (5),pet_name,8,88,76,2,Handle pet_name appropriately,160 sorries
+He called me cat (6),pet_name,8,90,79,2,Handle pet_name appropriately,160 sorries
+He called me kitty (7),pet_name,8,92,82,2,Handle pet_name appropriately,160 sorries
+He saved my contact as cat (8),pet_name,8,94,85,2,Handle pet_name appropriately,160 sorries
+He introduced me as kitty (9),pet_name,8,96,64,2,Handle pet_name appropriately,160 sorries
+He used a pet name after being warned (10),pet_name,8,98,67,2,Handle pet_name appropriately,160 sorries
+He called me cat (11),pet_name,8,80,70,2,Handle pet_name appropriately,160 sorries
+He called me kitty (12),pet_name,8,82,73,2,Handle pet_name appropriately,160 sorries
+He saved my contact as cat (13),pet_name,8,84,76,2,Handle pet_name appropriately,160 sorries
+He introduced me as kitty (14),pet_name,8,86,79,2,Handle pet_name appropriately,160 sorries
+He used a pet name after being warned (15),pet_name,8,88,82,2,Handle pet_name appropriately,160 sorries
+He called me cat (16),pet_name,8,90,85,2,Handle pet_name appropriately,160 sorries
+He called me kitty (17),pet_name,8,92,64,2,Handle pet_name appropriately,160 sorries
+He saved my contact as cat (18),pet_name,8,94,67,2,Handle pet_name appropriately,160 sorries
+He introduced me as kitty (19),pet_name,8,96,70,2,Handle pet_name appropriately,160 sorries
+He used a pet name after being warned (20),pet_name,8,98,73,2,Handle pet_name appropriately,160 sorries
+He called me cat (21),pet_name,8,80,76,2,Handle pet_name appropriately,160 sorries
+He called me kitty (22),pet_name,8,82,79,2,Handle pet_name appropriately,160 sorries
+He saved my contact as cat (23),pet_name,8,84,82,2,Handle pet_name appropriately,160 sorries
+He introduced me as kitty (24),pet_name,8,86,85,2,Handle pet_name appropriately,160 sorries
+He used a pet name after being warned (25),pet_name,8,88,64,2,Handle pet_name appropriately,160 sorries
+He called me cat (26),pet_name,8,90,67,2,Handle pet_name appropriately,160 sorries
+He called me kitty (27),pet_name,8,92,70,2,Handle pet_name appropriately,160 sorries
+He saved my contact as cat (28),pet_name,8,94,73,2,Handle pet_name appropriately,160 sorries
+He teased me about my rules (1),teasing,5,50,40,1,Handle teasing appropriately,100 sorries
+He mocked my punishment system (2),teasing,5,52,43,1,Handle teasing appropriately,100 sorries
+He made fun of my serious message (3),teasing,5,54,46,1,Handle teasing appropriately,100 sorries
+He trolled me during a discussion (4),teasing,5,56,49,1,Handle teasing appropriately,100 sorries
+He joked when I was annoyed (5),teasing,5,58,52,1,Handle teasing appropriately,100 sorries
+He teased me about my rules (6),teasing,5,60,55,1,Handle teasing appropriately,100 sorries
+He mocked my punishment system (7),teasing,5,62,58,1,Handle teasing appropriately,100 sorries
+He made fun of my serious message (8),teasing,5,64,61,1,Handle teasing appropriately,100 sorries
+He trolled me during a discussion (9),teasing,5,66,40,1,Handle teasing appropriately,100 sorries
+He joked when I was annoyed (10),teasing,5,68,43,1,Handle teasing appropriately,100 sorries
+He teased me about my rules (11),teasing,5,50,46,1,Handle teasing appropriately,100 sorries
+He mocked my punishment system (12),teasing,5,52,49,1,Handle teasing appropriately,100 sorries
+He made fun of my serious message (13),teasing,5,54,52,1,Handle teasing appropriately,100 sorries
+He trolled me during a discussion (14),teasing,5,56,55,1,Handle teasing appropriately,100 sorries
+He joked when I was annoyed (15),teasing,5,58,58,1,Handle teasing appropriately,100 sorries
+He teased me about my rules (16),teasing,5,60,61,1,Handle teasing appropriately,100 sorries
+He mocked my punishment system (17),teasing,5,62,40,1,Handle teasing appropriately,100 sorries
+He made fun of my serious message (18),teasing,5,64,43,1,Handle teasing appropriately,100 sorries
+He trolled me during a discussion (19),teasing,5,66,46,1,Handle teasing appropriately,100 sorries
+He joked when I was annoyed (20),teasing,5,68,49,1,Handle teasing appropriately,100 sorries
+He teased me about my rules (21),teasing,5,50,52,1,Handle teasing appropriately,100 sorries
+He mocked my punishment system (22),teasing,5,52,55,1,Handle teasing appropriately,100 sorries
+He made fun of my serious message (23),teasing,5,54,58,1,Handle teasing appropriately,100 sorries
+He trolled me during a discussion (24),teasing,5,56,61,1,Handle teasing appropriately,100 sorries
+He joked when I was annoyed (25),teasing,5,58,40,1,Handle teasing appropriately,100 sorries
+He teased me about my rules (26),teasing,5,60,43,1,Handle teasing appropriately,100 sorries
+He mocked my punishment system (27),teasing,5,62,46,1,Handle teasing appropriately,100 sorries
+He made fun of my serious message (28),teasing,5,64,49,1,Handle teasing appropriately,100 sorries
+He gave a sincere apology (1),apology,2,20,16,0,Handle apology appropriately,No punishment
+He admitted his mistake politely (2),apology,2,22,19,0,Handle apology appropriately,No punishment
+He apologized and changed his behavior (3),apology,2,24,22,0,Handle apology appropriately,No punishment
+He accepted the punishment without arguing (4),apology,2,26,25,0,Handle apology appropriately,No punishment
+He respected my decision afterward (5),apology,2,28,28,0,Handle apology appropriately,No punishment
+He gave a sincere apology (6),apology,2,30,31,0,Handle apology appropriately,No punishment
+He admitted his mistake politely (7),apology,2,32,34,0,Handle apology appropriately,No punishment
+He apologized and changed his behavior (8),apology,2,34,37,0,Handle apology appropriately,No punishment
+He accepted the punishment without arguing (9),apology,2,36,16,0,Handle apology appropriately,No punishment
+He respected my decision afterward (10),apology,2,38,19,0,Handle apology appropriately,No punishment
+He gave a sincere apology (11),apology,2,20,22,0,Handle apology appropriately,No punishment
+He admitted his mistake politely (12),apology,2,22,25,0,Handle apology appropriately,No punishment
+He apologized and changed his behavior (13),apology,2,24,28,0,Handle apology appropriately,No punishment
+He accepted the punishment without arguing (14),apology,2,26,31,0,Handle apology appropriately,No punishment
+He respected my decision afterward (15),apology,2,28,34,0,Handle apology appropriately,No punishment
+He gave a sincere apology (16),apology,2,30,37,0,Handle apology appropriately,No punishment
+He admitted his mistake politely (17),apology,2,32,16,0,Handle apology appropriately,No punishment
+He apologized and changed his behavior (18),apology,2,34,19,0,Handle apology appropriately,No punishment
+He accepted the punishment without arguing (19),apology,2,36,22,0,Handle apology appropriately,No punishment
+He respected my decision afterward (20),apology,2,38,25,0,Handle apology appropriately,No punishment
+He gave a sincere apology (21),apology,2,20,28,0,Handle apology appropriately,No punishment
+He admitted his mistake politely (22),apology,2,22,31,0,Handle apology appropriately,No punishment
+He apologized and changed his behavior (23),apology,2,24,34,0,Handle apology appropriately,No punishment
+He accepted the punishment without arguing (24),apology,2,26,37,0,Handle apology appropriately,No punishment
+He respected my decision afterward (25),apology,2,28,16,0,Handle apology appropriately,No punishment
+He gave a sincere apology (26),apology,2,30,19,0,Handle apology appropriately,No punishment
+He admitted his mistake politely (27),apology,2,32,22,0,Handle apology appropriately,No punishment
+He apologized and changed his behavior (28),apology,2,34,25,0,Handle apology appropriately,No punishment
+He asked how my day was (1),normal_chat,1,10,8,0,Handle normal_chat appropriately,No punishment
+He wished me good morning (2),normal_chat,1,12,11,0,Handle normal_chat appropriately,No punishment
+He asked if I had lunch (3),normal_chat,1,14,14,0,Handle normal_chat appropriately,No punishment
+He talked about cricket casually (4),normal_chat,1,16,17,0,Handle normal_chat appropriately,No punishment
+He shared a funny story respectfully (5),normal_chat,1,18,20,0,Handle normal_chat appropriately,No punishment
+He asked how my day was (6),normal_chat,1,20,23,0,Handle normal_chat appropriately,No punishment
+He wished me good morning (7),normal_chat,1,22,26,0,Handle normal_chat appropriately,No punishment
+He asked if I had lunch (8),normal_chat,1,24,29,0,Handle normal_chat appropriately,No punishment
+He talked about cricket casually (9),normal_chat,1,26,8,0,Handle normal_chat appropriately,No punishment
+He shared a funny story respectfully (10),normal_chat,1,28,11,0,Handle normal_chat appropriately,No punishment
+He asked how my day was (11),normal_chat,1,10,14,0,Handle normal_chat appropriately,No punishment
+He wished me good morning (12),normal_chat,1,12,17,0,Handle normal_chat appropriately,No punishment
+He asked if I had lunch (13),normal_chat,1,14,20,0,Handle normal_chat appropriately,No punishment
+He talked about cricket casually (14),normal_chat,1,16,23,0,Handle normal_chat appropriately,No punishment
+He shared a funny story respectfully (15),normal_chat,1,18,26,0,Handle normal_chat appropriately,No punishment
+He asked how my day was (16),normal_chat,1,20,29,0,Handle normal_chat appropriately,No punishment
+He wished me good morning (17),normal_chat,1,22,8,0,Handle normal_chat appropriately,No punishment
+He asked if I had lunch (18),normal_chat,1,24,11,0,Handle normal_chat appropriately,No punishment
+He talked about cricket casually (19),normal_chat,1,26,14,0,Handle normal_chat appropriately,No punishment
+He shared a funny story respectfully (20),normal_chat,1,28,17,0,Handle normal_chat appropriately,No punishment
+He asked how my day was (21),normal_chat,1,10,20,0,Handle normal_chat appropriately,No punishment
+He wished me good morning (22),normal_chat,1,12,23,0,Handle normal_chat appropriately,No punishment
+He asked if I had lunch (23),normal_chat,1,14,26,0,Handle normal_chat appropriately,No punishment
+He talked about cricket casually (24),normal_chat,1,16,29,0,Handle normal_chat appropriately,No punishment
+He shared a funny story respectfully (25),normal_chat,1,18,8,0,Handle normal_chat appropriately,No punishment
+He asked how my day was (26),normal_chat,1,20,11,0,Handle normal_chat appropriately,No punishment
+He wished me good morning (27),normal_chat,1,22,14,0,Handle normal_chat appropriately,No punishment
+He asked if I had lunch (28),normal_chat,1,24,17,0,Handle normal_chat appropriately,No punishment
+He requested to be unblocked politely (1),unblock_request,4,40,32,1,Handle unblock_request appropriately,80 sorries
+He asked for one more chance (2),unblock_request,4,42,35,1,Handle unblock_request appropriately,80 sorries
+He promised not to repeat the mistake (3),unblock_request,4,44,38,1,Handle unblock_request appropriately,80 sorries
+He requested forgiveness respectfully (4),unblock_request,4,46,41,1,Handle unblock_request appropriately,80 sorries
+He asked when he could talk again (5),unblock_request,4,48,44,1,Handle unblock_request appropriately,80 sorries
+He requested to be unblocked politely (6),unblock_request,4,50,47,1,Handle unblock_request appropriately,80 sorries
+He asked for one more chance (7),unblock_request,4,52,50,1,Handle unblock_request appropriately,80 sorries
+He promised not to repeat the mistake (8),unblock_request,4,54,53,1,Handle unblock_request appropriately,80 sorries
+He requested forgiveness respectfully (9),unblock_request,4,56,32,1,Handle unblock_request appropriately,80 sorries
+He asked when he could talk again (10),unblock_request,4,58,35,1,Handle unblock_request appropriately,80 sorries
+He requested to be unblocked politely (11),unblock_request,4,40,38,1,Handle unblock_request appropriately,80 sorries
+He asked for one more chance (12),unblock_request,4,42,41,1,Handle unblock_request appropriately,80 sorries
+He promised not to repeat the mistake (13),unblock_request,4,44,44,1,Handle unblock_request appropriately,80 sorries
+He requested forgiveness respectfully (14),unblock_request,4,46,47,1,Handle unblock_request appropriately,80 sorries
+He asked when he could talk again (15),unblock_request,4,48,50,1,Handle unblock_request appropriately,80 sorries
+He requested to be unblocked politely (16),unblock_request,4,50,53,1,Handle unblock_request appropriately,80 sorries
+He asked for one more chance (17),unblock_request,4,52,32,1,Handle unblock_request appropriately,80 sorries
+He promised not to repeat the mistake (18),unblock_request,4,54,35,1,Handle unblock_request appropriately,80 sorries
+He requested forgiveness respectfully (19),unblock_request,4,56,38,1,Handle unblock_request appropriately,80 sorries
+He asked when he could talk again (20),unblock_request,4,58,41,1,Handle unblock_request appropriately,80 sorries
+He requested to be unblocked politely (21),unblock_request,4,40,44,1,Handle unblock_request appropriately,80 sorries
+He asked for one more chance (22),unblock_request,4,42,47,1,Handle unblock_request appropriately,80 sorries
+He promised not to repeat the mistake (23),unblock_request,4,44,50,1,Handle unblock_request appropriately,80 sorries
+He requested forgiveness respectfully (24),unblock_request,4,46,53,1,Handle unblock_request appropriately,80 sorries
+He asked when he could talk again (25),unblock_request,4,48,32,1,Handle unblock_request appropriately,80 sorries
+He requested to be unblocked politely (26),unblock_request,4,50,35,1,Handle unblock_request appropriately,80 sorries
+He asked for one more chance (27),unblock_request,4,52,38,1,Handle unblock_request appropriately,80 sorries
+He promised not to repeat the mistake (28),unblock_request,4,54,41,1,Handle unblock_request appropriately,80 sorries
+He asked why I had not replied yet (1),demanding_reply,6,60,48,2,Handle demanding_reply appropriately,120 sorries
+He demanded an immediate response (2),demanding_reply,6,62,51,2,Handle demanding_reply appropriately,120 sorries
+He complained about being ignored (3),demanding_reply,6,64,54,2,Handle demanding_reply appropriately,120 sorries
+He kept asking if I saw the message (4),demanding_reply,6,66,57,2,Handle demanding_reply appropriately,120 sorries
+He insisted on getting a reply now (5),demanding_reply,6,68,60,2,Handle demanding_reply appropriately,120 sorries
+He asked why I had not replied yet (6),demanding_reply,6,70,63,2,Handle demanding_reply appropriately,120 sorries
+He demanded an immediate response (7),demanding_reply,6,72,66,2,Handle demanding_reply appropriately,120 sorries
+He complained about being ignored (8),demanding_reply,6,74,69,2,Handle demanding_reply appropriately,120 sorries
+He kept asking if I saw the message (9),demanding_reply,6,76,48,2,Handle demanding_reply appropriately,120 sorries
+He insisted on getting a reply now (10),demanding_reply,6,78,51,2,Handle demanding_reply appropriately,120 sorries
+He asked why I had not replied yet (11),demanding_reply,6,60,54,2,Handle demanding_reply appropriately,120 sorries
+He demanded an immediate response (12),demanding_reply,6,62,57,2,Handle demanding_reply appropriately,120 sorries
+He complained about being ignored (13),demanding_reply,6,64,60,2,Handle demanding_reply appropriately,120 sorries
+He kept asking if I saw the message (14),demanding_reply,6,66,63,2,Handle demanding_reply appropriately,120 sorries
+He insisted on getting a reply now (15),demanding_reply,6,68,66,2,Handle demanding_reply appropriately,120 sorries
+He asked why I had not replied yet (16),demanding_reply,6,70,69,2,Handle demanding_reply appropriately,120 sorries
+He demanded an immediate response (17),demanding_reply,6,72,48,2,Handle demanding_reply appropriately,120 sorries
+He complained about being ignored (18),demanding_reply,6,74,51,2,Handle demanding_reply appropriately,120 sorries
+He kept asking if I saw the message (19),demanding_reply,6,76,54,2,Handle demanding_reply appropriately,120 sorries
+He insisted on getting a reply now (20),demanding_reply,6,78,57,2,Handle demanding_reply appropriately,120 sorries
+He asked why I had not replied yet (21),demanding_reply,6,60,60,2,Handle demanding_reply appropriately,120 sorries
+He demanded an immediate response (22),demanding_reply,6,62,63,2,Handle demanding_reply appropriately,120 sorries
+He complained about being ignored (23),demanding_reply,6,64,66,2,Handle demanding_reply appropriately,120 sorries
+He kept asking if I saw the message (24),demanding_reply,6,66,69,2,Handle demanding_reply appropriately,120 sorries
+He insisted on getting a reply now (25),demanding_reply,6,68,48,2,Handle demanding_reply appropriately,120 sorries
+He asked why I had not replied yet (26),demanding_reply,6,70,51,2,Handle demanding_reply appropriately,120 sorries
+He demanded an immediate response (27),demanding_reply,6,72,54,2,Handle demanding_reply appropriately,120 sorries
+He complained about being ignored (28),demanding_reply,6,74,57,2,Handle demanding_reply appropriately,120 sorries
+he called me nonsense8,teasing,10,80,,2,Handle demanding_reply appropriately,2000 sorries
+he called me idiot,teasing,9,80,68,2,Handle demanding_reply appropriately,1000 sorries
+he called me cute,flirting,5,80,76,0,Handle demanding_reply appropriately,10 sorries

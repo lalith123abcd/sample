@@ -1,0 +1,1364 @@
+{
+  "he sent 12 messages without waiting for a reply (1)": {
+    "advice": "Handle message_spam appropriately",
+    "punishment": "140 sorries",
+    "trigger_type": "message_spam",
+    "severity": 7
+  },
+  "he kept typing kiran every minute (2)": {
+    "advice": "Handle message_spam appropriately",
+    "punishment": "140 sorries",
+    "trigger_type": "message_spam",
+    "severity": 7
+  },
+  "he sent messages after being told to stop (3)": {
+    "advice": "Handle message_spam appropriately",
+    "punishment": "140 sorries",
+    "trigger_type": "message_spam",
+    "severity": 7
+  },
+  "he flooded the chat with question marks (4)": {
+    "advice": "Handle message_spam appropriately",
+    "punishment": "140 sorries",
+    "trigger_type": "message_spam",
+    "severity": 7
+  },
+  "he sent five follow-up messages in a row (5)": {
+    "advice": "Handle message_spam appropriately",
+    "punishment": "140 sorries",
+    "trigger_type": "message_spam",
+    "severity": 7
+  },
+  "he sent 12 messages without waiting for a reply (6)": {
+    "advice": "Handle message_spam appropriately",
+    "punishment": "140 sorries",
+    "trigger_type": "message_spam",
+    "severity": 7
+  },
+  "he kept typing kiran every minute (7)": {
+    "advice": "Handle message_spam appropriately",
+    "punishment": "140 sorries",
+    "trigger_type": "message_spam",
+    "severity": 7
+  },
+  "he sent messages after being told to stop (8)": {
+    "advice": "Handle message_spam appropriately",
+    "punishment": "140 sorries",
+    "trigger_type": "message_spam",
+    "severity": 7
+  },
+  "he flooded the chat with question marks (9)": {
+    "advice": "Handle message_spam appropriately",
+    "punishment": "140 sorries",
+    "trigger_type": "message_spam",
+    "severity": 7
+  },
+  "he sent five follow-up messages in a row (10)": {
+    "advice": "Handle message_spam appropriately",
+    "punishment": "140 sorries",
+    "trigger_type": "message_spam",
+    "severity": 7
+  },
+  "he sent 12 messages without waiting for a reply (11)": {
+    "advice": "Handle message_spam appropriately",
+    "punishment": "140 sorries",
+    "trigger_type": "message_spam",
+    "severity": 7
+  },
+  "he kept typing kiran every minute (12)": {
+    "advice": "Handle message_spam appropriately",
+    "punishment": "140 sorries",
+    "trigger_type": "message_spam",
+    "severity": 7
+  },
+  "he sent messages after being told to stop (13)": {
+    "advice": "Handle message_spam appropriately",
+    "punishment": "140 sorries",
+    "trigger_type": "message_spam",
+    "severity": 7
+  },
+  "he flooded the chat with question marks (14)": {
+    "advice": "Handle message_spam appropriately",
+    "punishment": "140 sorries",
+    "trigger_type": "message_spam",
+    "severity": 7
+  },
+  "he sent five follow-up messages in a row (15)": {
+    "advice": "Handle message_spam appropriately",
+    "punishment": "140 sorries",
+    "trigger_type": "message_spam",
+    "severity": 7
+  },
+  "he sent 12 messages without waiting for a reply (16)": {
+    "advice": "Handle message_spam appropriately",
+    "punishment": "140 sorries",
+    "trigger_type": "message_spam",
+    "severity": 7
+  },
+  "he kept typing kiran every minute (17)": {
+    "advice": "Handle message_spam appropriately",
+    "punishment": "140 sorries",
+    "trigger_type": "message_spam",
+    "severity": 7
+  },
+  "he sent messages after being told to stop (18)": {
+    "advice": "Handle message_spam appropriately",
+    "punishment": "140 sorries",
+    "trigger_type": "message_spam",
+    "severity": 7
+  },
+  "he flooded the chat with question marks (19)": {
+    "advice": "Handle message_spam appropriately",
+    "punishment": "140 sorries",
+    "trigger_type": "message_spam",
+    "severity": 7
+  },
+  "he sent five follow-up messages in a row (20)": {
+    "advice": "Handle message_spam appropriately",
+    "punishment": "140 sorries",
+    "trigger_type": "message_spam",
+    "severity": 7
+  },
+  "he sent 12 messages without waiting for a reply (21)": {
+    "advice": "Handle message_spam appropriately",
+    "punishment": "140 sorries",
+    "trigger_type": "message_spam",
+    "severity": 7
+  },
+  "he kept typing kiran every minute (22)": {
+    "advice": "Handle message_spam appropriately",
+    "punishment": "140 sorries",
+    "trigger_type": "message_spam",
+    "severity": 7
+  },
+  "he sent messages after being told to stop (23)": {
+    "advice": "Handle message_spam appropriately",
+    "punishment": "140 sorries",
+    "trigger_type": "message_spam",
+    "severity": 7
+  },
+  "he flooded the chat with question marks (24)": {
+    "advice": "Handle message_spam appropriately",
+    "punishment": "140 sorries",
+    "trigger_type": "message_spam",
+    "severity": 7
+  },
+  "he sent five follow-up messages in a row (25)": {
+    "advice": "Handle message_spam appropriately",
+    "punishment": "140 sorries",
+    "trigger_type": "message_spam",
+    "severity": 7
+  },
+  "he sent 12 messages without waiting for a reply (26)": {
+    "advice": "Handle message_spam appropriately",
+    "punishment": "140 sorries",
+    "trigger_type": "message_spam",
+    "severity": 7
+  },
+  "he kept typing kiran every minute (27)": {
+    "advice": "Handle message_spam appropriately",
+    "punishment": "140 sorries",
+    "trigger_type": "message_spam",
+    "severity": 7
+  },
+  "he sent messages after being told to stop (28)": {
+    "advice": "Handle message_spam appropriately",
+    "punishment": "140 sorries",
+    "trigger_type": "message_spam",
+    "severity": 7
+  },
+  "he kept asking after i clearly said no (1)": {
+    "advice": "Handle boundary_violation appropriately",
+    "punishment": "180 sorries",
+    "trigger_type": "boundary_violation",
+    "severity": 9
+  },
+  "he brought up a topic i asked him to drop (2)": {
+    "advice": "Handle boundary_violation appropriately",
+    "punishment": "180 sorries",
+    "trigger_type": "boundary_violation",
+    "severity": 9
+  },
+  "he ignored my request for space (3)": {
+    "advice": "Handle boundary_violation appropriately",
+    "punishment": "180 sorries",
+    "trigger_type": "boundary_violation",
+    "severity": 9
+  },
+  "he continued arguing after i ended the discussion (4)": {
+    "advice": "Handle boundary_violation appropriately",
+    "punishment": "180 sorries",
+    "trigger_type": "boundary_violation",
+    "severity": 9
+  },
+  "he pushed for an answer after refusal (5)": {
+    "advice": "Handle boundary_violation appropriately",
+    "punishment": "180 sorries",
+    "trigger_type": "boundary_violation",
+    "severity": 9
+  },
+  "he kept asking after i clearly said no (6)": {
+    "advice": "Handle boundary_violation appropriately",
+    "punishment": "180 sorries",
+    "trigger_type": "boundary_violation",
+    "severity": 9
+  },
+  "he brought up a topic i asked him to drop (7)": {
+    "advice": "Handle boundary_violation appropriately",
+    "punishment": "180 sorries",
+    "trigger_type": "boundary_violation",
+    "severity": 9
+  },
+  "he ignored my request for space (8)": {
+    "advice": "Handle boundary_violation appropriately",
+    "punishment": "180 sorries",
+    "trigger_type": "boundary_violation",
+    "severity": 9
+  },
+  "he continued arguing after i ended the discussion (9)": {
+    "advice": "Handle boundary_violation appropriately",
+    "punishment": "180 sorries",
+    "trigger_type": "boundary_violation",
+    "severity": 9
+  },
+  "he pushed for an answer after refusal (10)": {
+    "advice": "Handle boundary_violation appropriately",
+    "punishment": "180 sorries",
+    "trigger_type": "boundary_violation",
+    "severity": 9
+  },
+  "he kept asking after i clearly said no (11)": {
+    "advice": "Handle boundary_violation appropriately",
+    "punishment": "180 sorries",
+    "trigger_type": "boundary_violation",
+    "severity": 9
+  },
+  "he brought up a topic i asked him to drop (12)": {
+    "advice": "Handle boundary_violation appropriately",
+    "punishment": "180 sorries",
+    "trigger_type": "boundary_violation",
+    "severity": 9
+  },
+  "he ignored my request for space (13)": {
+    "advice": "Handle boundary_violation appropriately",
+    "punishment": "180 sorries",
+    "trigger_type": "boundary_violation",
+    "severity": 9
+  },
+  "he continued arguing after i ended the discussion (14)": {
+    "advice": "Handle boundary_violation appropriately",
+    "punishment": "180 sorries",
+    "trigger_type": "boundary_violation",
+    "severity": 9
+  },
+  "he pushed for an answer after refusal (15)": {
+    "advice": "Handle boundary_violation appropriately",
+    "punishment": "180 sorries",
+    "trigger_type": "boundary_violation",
+    "severity": 9
+  },
+  "he kept asking after i clearly said no (16)": {
+    "advice": "Handle boundary_violation appropriately",
+    "punishment": "180 sorries",
+    "trigger_type": "boundary_violation",
+    "severity": 9
+  },
+  "he brought up a topic i asked him to drop (17)": {
+    "advice": "Handle boundary_violation appropriately",
+    "punishment": "180 sorries",
+    "trigger_type": "boundary_violation",
+    "severity": 9
+  },
+  "he ignored my request for space (18)": {
+    "advice": "Handle boundary_violation appropriately",
+    "punishment": "180 sorries",
+    "trigger_type": "boundary_violation",
+    "severity": 9
+  },
+  "he continued arguing after i ended the discussion (19)": {
+    "advice": "Handle boundary_violation appropriately",
+    "punishment": "180 sorries",
+    "trigger_type": "boundary_violation",
+    "severity": 9
+  },
+  "he pushed for an answer after refusal (20)": {
+    "advice": "Handle boundary_violation appropriately",
+    "punishment": "180 sorries",
+    "trigger_type": "boundary_violation",
+    "severity": 9
+  },
+  "he kept asking after i clearly said no (21)": {
+    "advice": "Handle boundary_violation appropriately",
+    "punishment": "180 sorries",
+    "trigger_type": "boundary_violation",
+    "severity": 9
+  },
+  "he brought up a topic i asked him to drop (22)": {
+    "advice": "Handle boundary_violation appropriately",
+    "punishment": "180 sorries",
+    "trigger_type": "boundary_violation",
+    "severity": 9
+  },
+  "he ignored my request for space (23)": {
+    "advice": "Handle boundary_violation appropriately",
+    "punishment": "180 sorries",
+    "trigger_type": "boundary_violation",
+    "severity": 9
+  },
+  "he continued arguing after i ended the discussion (24)": {
+    "advice": "Handle boundary_violation appropriately",
+    "punishment": "180 sorries",
+    "trigger_type": "boundary_violation",
+    "severity": 9
+  },
+  "he pushed for an answer after refusal (25)": {
+    "advice": "Handle boundary_violation appropriately",
+    "punishment": "180 sorries",
+    "trigger_type": "boundary_violation",
+    "severity": 9
+  },
+  "he kept asking after i clearly said no (26)": {
+    "advice": "Handle boundary_violation appropriately",
+    "punishment": "180 sorries",
+    "trigger_type": "boundary_violation",
+    "severity": 9
+  },
+  "he brought up a topic i asked him to drop (27)": {
+    "advice": "Handle boundary_violation appropriately",
+    "punishment": "180 sorries",
+    "trigger_type": "boundary_violation",
+    "severity": 9
+  },
+  "he ignored my request for space (28)": {
+    "advice": "Handle boundary_violation appropriately",
+    "punishment": "180 sorries",
+    "trigger_type": "boundary_violation",
+    "severity": 9
+  },
+  "he called me cat (1)": {
+    "advice": "Handle pet_name appropriately",
+    "punishment": "160 sorries",
+    "trigger_type": "pet_name",
+    "severity": 8
+  },
+  "he called me kitty (2)": {
+    "advice": "Handle pet_name appropriately",
+    "punishment": "160 sorries",
+    "trigger_type": "pet_name",
+    "severity": 8
+  },
+  "he saved my contact as cat (3)": {
+    "advice": "Handle pet_name appropriately",
+    "punishment": "160 sorries",
+    "trigger_type": "pet_name",
+    "severity": 8
+  },
+  "he introduced me as kitty (4)": {
+    "advice": "Handle pet_name appropriately",
+    "punishment": "160 sorries",
+    "trigger_type": "pet_name",
+    "severity": 8
+  },
+  "he used a pet name after being warned (5)": {
+    "advice": "Handle pet_name appropriately",
+    "punishment": "160 sorries",
+    "trigger_type": "pet_name",
+    "severity": 8
+  },
+  "he called me cat (6)": {
+    "advice": "Handle pet_name appropriately",
+    "punishment": "160 sorries",
+    "trigger_type": "pet_name",
+    "severity": 8
+  },
+  "he called me kitty (7)": {
+    "advice": "Handle pet_name appropriately",
+    "punishment": "160 sorries",
+    "trigger_type": "pet_name",
+    "severity": 8
+  },
+  "he saved my contact as cat (8)": {
+    "advice": "Handle pet_name appropriately",
+    "punishment": "160 sorries",
+    "trigger_type": "pet_name",
+    "severity": 8
+  },
+  "he introduced me as kitty (9)": {
+    "advice": "Handle pet_name appropriately",
+    "punishment": "160 sorries",
+    "trigger_type": "pet_name",
+    "severity": 8
+  },
+  "he used a pet name after being warned (10)": {
+    "advice": "Handle pet_name appropriately",
+    "punishment": "160 sorries",
+    "trigger_type": "pet_name",
+    "severity": 8
+  },
+  "he called me cat (11)": {
+    "advice": "Handle pet_name appropriately",
+    "punishment": "160 sorries",
+    "trigger_type": "pet_name",
+    "severity": 8
+  },
+  "he called me kitty (12)": {
+    "advice": "Handle pet_name appropriately",
+    "punishment": "160 sorries",
+    "trigger_type": "pet_name",
+    "severity": 8
+  },
+  "he saved my contact as cat (13)": {
+    "advice": "Handle pet_name appropriately",
+    "punishment": "160 sorries",
+    "trigger_type": "pet_name",
+    "severity": 8
+  },
+  "he introduced me as kitty (14)": {
+    "advice": "Handle pet_name appropriately",
+    "punishment": "160 sorries",
+    "trigger_type": "pet_name",
+    "severity": 8
+  },
+  "he used a pet name after being warned (15)": {
+    "advice": "Handle pet_name appropriately",
+    "punishment": "160 sorries",
+    "trigger_type": "pet_name",
+    "severity": 8
+  },
+  "he called me cat (16)": {
+    "advice": "Handle pet_name appropriately",
+    "punishment": "160 sorries",
+    "trigger_type": "pet_name",
+    "severity": 8
+  },
+  "he called me kitty (17)": {
+    "advice": "Handle pet_name appropriately",
+    "punishment": "160 sorries",
+    "trigger_type": "pet_name",
+    "severity": 8
+  },
+  "he saved my contact as cat (18)": {
+    "advice": "Handle pet_name appropriately",
+    "punishment": "160 sorries",
+    "trigger_type": "pet_name",
+    "severity": 8
+  },
+  "he introduced me as kitty (19)": {
+    "advice": "Handle pet_name appropriately",
+    "punishment": "160 sorries",
+    "trigger_type": "pet_name",
+    "severity": 8
+  },
+  "he used a pet name after being warned (20)": {
+    "advice": "Handle pet_name appropriately",
+    "punishment": "160 sorries",
+    "trigger_type": "pet_name",
+    "severity": 8
+  },
+  "he called me cat (21)": {
+    "advice": "Handle pet_name appropriately",
+    "punishment": "160 sorries",
+    "trigger_type": "pet_name",
+    "severity": 8
+  },
+  "he called me kitty (22)": {
+    "advice": "Handle pet_name appropriately",
+    "punishment": "160 sorries",
+    "trigger_type": "pet_name",
+    "severity": 8
+  },
+  "he saved my contact as cat (23)": {
+    "advice": "Handle pet_name appropriately",
+    "punishment": "160 sorries",
+    "trigger_type": "pet_name",
+    "severity": 8
+  },
+  "he introduced me as kitty (24)": {
+    "advice": "Handle pet_name appropriately",
+    "punishment": "160 sorries",
+    "trigger_type": "pet_name",
+    "severity": 8
+  },
+  "he used a pet name after being warned (25)": {
+    "advice": "Handle pet_name appropriately",
+    "punishment": "160 sorries",
+    "trigger_type": "pet_name",
+    "severity": 8
+  },
+  "he called me cat (26)": {
+    "advice": "Handle pet_name appropriately",
+    "punishment": "160 sorries",
+    "trigger_type": "pet_name",
+    "severity": 8
+  },
+  "he called me kitty (27)": {
+    "advice": "Handle pet_name appropriately",
+    "punishment": "160 sorries",
+    "trigger_type": "pet_name",
+    "severity": 8
+  },
+  "he saved my contact as cat (28)": {
+    "advice": "Handle pet_name appropriately",
+    "punishment": "160 sorries",
+    "trigger_type": "pet_name",
+    "severity": 8
+  },
+  "he teased me about my rules (1)": {
+    "advice": "Handle teasing appropriately",
+    "punishment": "100 sorries",
+    "trigger_type": "teasing",
+    "severity": 5
+  },
+  "he mocked my punishment system (2)": {
+    "advice": "Handle teasing appropriately",
+    "punishment": "100 sorries",
+    "trigger_type": "teasing",
+    "severity": 5
+  },
+  "he made fun of my serious message (3)": {
+    "advice": "Handle teasing appropriately",
+    "punishment": "100 sorries",
+    "trigger_type": "teasing",
+    "severity": 5
+  },
+  "he trolled me during a discussion (4)": {
+    "advice": "Handle teasing appropriately",
+    "punishment": "100 sorries",
+    "trigger_type": "teasing",
+    "severity": 5
+  },
+  "he joked when i was annoyed (5)": {
+    "advice": "Handle teasing appropriately",
+    "punishment": "100 sorries",
+    "trigger_type": "teasing",
+    "severity": 5
+  },
+  "he teased me about my rules (6)": {
+    "advice": "Handle teasing appropriately",
+    "punishment": "100 sorries",
+    "trigger_type": "teasing",
+    "severity": 5
+  },
+  "he mocked my punishment system (7)": {
+    "advice": "Handle teasing appropriately",
+    "punishment": "100 sorries",
+    "trigger_type": "teasing",
+    "severity": 5
+  },
+  "he made fun of my serious message (8)": {
+    "advice": "Handle teasing appropriately",
+    "punishment": "100 sorries",
+    "trigger_type": "teasing",
+    "severity": 5
+  },
+  "he trolled me during a discussion (9)": {
+    "advice": "Handle teasing appropriately",
+    "punishment": "100 sorries",
+    "trigger_type": "teasing",
+    "severity": 5
+  },
+  "he joked when i was annoyed (10)": {
+    "advice": "Handle teasing appropriately",
+    "punishment": "100 sorries",
+    "trigger_type": "teasing",
+    "severity": 5
+  },
+  "he teased me about my rules (11)": {
+    "advice": "Handle teasing appropriately",
+    "punishment": "100 sorries",
+    "trigger_type": "teasing",
+    "severity": 5
+  },
+  "he mocked my punishment system (12)": {
+    "advice": "Handle teasing appropriately",
+    "punishment": "100 sorries",
+    "trigger_type": "teasing",
+    "severity": 5
+  },
+  "he made fun of my serious message (13)": {
+    "advice": "Handle teasing appropriately",
+    "punishment": "100 sorries",
+    "trigger_type": "teasing",
+    "severity": 5
+  },
+  "he trolled me during a discussion (14)": {
+    "advice": "Handle teasing appropriately",
+    "punishment": "100 sorries",
+    "trigger_type": "teasing",
+    "severity": 5
+  },
+  "he joked when i was annoyed (15)": {
+    "advice": "Handle teasing appropriately",
+    "punishment": "100 sorries",
+    "trigger_type": "teasing",
+    "severity": 5
+  },
+  "he teased me about my rules (16)": {
+    "advice": "Handle teasing appropriately",
+    "punishment": "100 sorries",
+    "trigger_type": "teasing",
+    "severity": 5
+  },
+  "he mocked my punishment system (17)": {
+    "advice": "Handle teasing appropriately",
+    "punishment": "100 sorries",
+    "trigger_type": "teasing",
+    "severity": 5
+  },
+  "he made fun of my serious message (18)": {
+    "advice": "Handle teasing appropriately",
+    "punishment": "100 sorries",
+    "trigger_type": "teasing",
+    "severity": 5
+  },
+  "he trolled me during a discussion (19)": {
+    "advice": "Handle teasing appropriately",
+    "punishment": "100 sorries",
+    "trigger_type": "teasing",
+    "severity": 5
+  },
+  "he joked when i was annoyed (20)": {
+    "advice": "Handle teasing appropriately",
+    "punishment": "100 sorries",
+    "trigger_type": "teasing",
+    "severity": 5
+  },
+  "he teased me about my rules (21)": {
+    "advice": "Handle teasing appropriately",
+    "punishment": "100 sorries",
+    "trigger_type": "teasing",
+    "severity": 5
+  },
+  "he mocked my punishment system (22)": {
+    "advice": "Handle teasing appropriately",
+    "punishment": "100 sorries",
+    "trigger_type": "teasing",
+    "severity": 5
+  },
+  "he made fun of my serious message (23)": {
+    "advice": "Handle teasing appropriately",
+    "punishment": "100 sorries",
+    "trigger_type": "teasing",
+    "severity": 5
+  },
+  "he trolled me during a discussion (24)": {
+    "advice": "Handle teasing appropriately",
+    "punishment": "100 sorries",
+    "trigger_type": "teasing",
+    "severity": 5
+  },
+  "he joked when i was annoyed (25)": {
+    "advice": "Handle teasing appropriately",
+    "punishment": "100 sorries",
+    "trigger_type": "teasing",
+    "severity": 5
+  },
+  "he teased me about my rules (26)": {
+    "advice": "Handle teasing appropriately",
+    "punishment": "100 sorries",
+    "trigger_type": "teasing",
+    "severity": 5
+  },
+  "he mocked my punishment system (27)": {
+    "advice": "Handle teasing appropriately",
+    "punishment": "100 sorries",
+    "trigger_type": "teasing",
+    "severity": 5
+  },
+  "he made fun of my serious message (28)": {
+    "advice": "Handle teasing appropriately",
+    "punishment": "100 sorries",
+    "trigger_type": "teasing",
+    "severity": 5
+  },
+  "he gave a sincere apology (1)": {
+    "advice": "Handle apology appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "apology",
+    "severity": 2
+  },
+  "he admitted his mistake politely (2)": {
+    "advice": "Handle apology appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "apology",
+    "severity": 2
+  },
+  "he apologized and changed his behavior (3)": {
+    "advice": "Handle apology appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "apology",
+    "severity": 2
+  },
+  "he accepted the punishment without arguing (4)": {
+    "advice": "Handle apology appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "apology",
+    "severity": 2
+  },
+  "he respected my decision afterward (5)": {
+    "advice": "Handle apology appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "apology",
+    "severity": 2
+  },
+  "he gave a sincere apology (6)": {
+    "advice": "Handle apology appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "apology",
+    "severity": 2
+  },
+  "he admitted his mistake politely (7)": {
+    "advice": "Handle apology appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "apology",
+    "severity": 2
+  },
+  "he apologized and changed his behavior (8)": {
+    "advice": "Handle apology appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "apology",
+    "severity": 2
+  },
+  "he accepted the punishment without arguing (9)": {
+    "advice": "Handle apology appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "apology",
+    "severity": 2
+  },
+  "he respected my decision afterward (10)": {
+    "advice": "Handle apology appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "apology",
+    "severity": 2
+  },
+  "he gave a sincere apology (11)": {
+    "advice": "Handle apology appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "apology",
+    "severity": 2
+  },
+  "he admitted his mistake politely (12)": {
+    "advice": "Handle apology appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "apology",
+    "severity": 2
+  },
+  "he apologized and changed his behavior (13)": {
+    "advice": "Handle apology appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "apology",
+    "severity": 2
+  },
+  "he accepted the punishment without arguing (14)": {
+    "advice": "Handle apology appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "apology",
+    "severity": 2
+  },
+  "he respected my decision afterward (15)": {
+    "advice": "Handle apology appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "apology",
+    "severity": 2
+  },
+  "he gave a sincere apology (16)": {
+    "advice": "Handle apology appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "apology",
+    "severity": 2
+  },
+  "he admitted his mistake politely (17)": {
+    "advice": "Handle apology appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "apology",
+    "severity": 2
+  },
+  "he apologized and changed his behavior (18)": {
+    "advice": "Handle apology appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "apology",
+    "severity": 2
+  },
+  "he accepted the punishment without arguing (19)": {
+    "advice": "Handle apology appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "apology",
+    "severity": 2
+  },
+  "he respected my decision afterward (20)": {
+    "advice": "Handle apology appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "apology",
+    "severity": 2
+  },
+  "he gave a sincere apology (21)": {
+    "advice": "Handle apology appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "apology",
+    "severity": 2
+  },
+  "he admitted his mistake politely (22)": {
+    "advice": "Handle apology appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "apology",
+    "severity": 2
+  },
+  "he apologized and changed his behavior (23)": {
+    "advice": "Handle apology appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "apology",
+    "severity": 2
+  },
+  "he accepted the punishment without arguing (24)": {
+    "advice": "Handle apology appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "apology",
+    "severity": 2
+  },
+  "he respected my decision afterward (25)": {
+    "advice": "Handle apology appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "apology",
+    "severity": 2
+  },
+  "he gave a sincere apology (26)": {
+    "advice": "Handle apology appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "apology",
+    "severity": 2
+  },
+  "he admitted his mistake politely (27)": {
+    "advice": "Handle apology appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "apology",
+    "severity": 2
+  },
+  "he apologized and changed his behavior (28)": {
+    "advice": "Handle apology appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "apology",
+    "severity": 2
+  },
+  "he asked how my day was (1)": {
+    "advice": "Handle normal_chat appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "normal_chat",
+    "severity": 1
+  },
+  "he wished me good morning (2)": {
+    "advice": "Handle normal_chat appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "normal_chat",
+    "severity": 1
+  },
+  "he asked if i had lunch (3)": {
+    "advice": "Handle normal_chat appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "normal_chat",
+    "severity": 1
+  },
+  "he talked about cricket casually (4)": {
+    "advice": "Handle normal_chat appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "normal_chat",
+    "severity": 1
+  },
+  "he shared a funny story respectfully (5)": {
+    "advice": "Handle normal_chat appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "normal_chat",
+    "severity": 1
+  },
+  "he asked how my day was (6)": {
+    "advice": "Handle normal_chat appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "normal_chat",
+    "severity": 1
+  },
+  "he wished me good morning (7)": {
+    "advice": "Handle normal_chat appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "normal_chat",
+    "severity": 1
+  },
+  "he asked if i had lunch (8)": {
+    "advice": "Handle normal_chat appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "normal_chat",
+    "severity": 1
+  },
+  "he talked about cricket casually (9)": {
+    "advice": "Handle normal_chat appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "normal_chat",
+    "severity": 1
+  },
+  "he shared a funny story respectfully (10)": {
+    "advice": "Handle normal_chat appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "normal_chat",
+    "severity": 1
+  },
+  "he asked how my day was (11)": {
+    "advice": "Handle normal_chat appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "normal_chat",
+    "severity": 1
+  },
+  "he wished me good morning (12)": {
+    "advice": "Handle normal_chat appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "normal_chat",
+    "severity": 1
+  },
+  "he asked if i had lunch (13)": {
+    "advice": "Handle normal_chat appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "normal_chat",
+    "severity": 1
+  },
+  "he talked about cricket casually (14)": {
+    "advice": "Handle normal_chat appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "normal_chat",
+    "severity": 1
+  },
+  "he shared a funny story respectfully (15)": {
+    "advice": "Handle normal_chat appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "normal_chat",
+    "severity": 1
+  },
+  "he asked how my day was (16)": {
+    "advice": "Handle normal_chat appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "normal_chat",
+    "severity": 1
+  },
+  "he wished me good morning (17)": {
+    "advice": "Handle normal_chat appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "normal_chat",
+    "severity": 1
+  },
+  "he asked if i had lunch (18)": {
+    "advice": "Handle normal_chat appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "normal_chat",
+    "severity": 1
+  },
+  "he talked about cricket casually (19)": {
+    "advice": "Handle normal_chat appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "normal_chat",
+    "severity": 1
+  },
+  "he shared a funny story respectfully (20)": {
+    "advice": "Handle normal_chat appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "normal_chat",
+    "severity": 1
+  },
+  "he asked how my day was (21)": {
+    "advice": "Handle normal_chat appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "normal_chat",
+    "severity": 1
+  },
+  "he wished me good morning (22)": {
+    "advice": "Handle normal_chat appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "normal_chat",
+    "severity": 1
+  },
+  "he asked if i had lunch (23)": {
+    "advice": "Handle normal_chat appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "normal_chat",
+    "severity": 1
+  },
+  "he talked about cricket casually (24)": {
+    "advice": "Handle normal_chat appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "normal_chat",
+    "severity": 1
+  },
+  "he shared a funny story respectfully (25)": {
+    "advice": "Handle normal_chat appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "normal_chat",
+    "severity": 1
+  },
+  "he asked how my day was (26)": {
+    "advice": "Handle normal_chat appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "normal_chat",
+    "severity": 1
+  },
+  "he wished me good morning (27)": {
+    "advice": "Handle normal_chat appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "normal_chat",
+    "severity": 1
+  },
+  "he asked if i had lunch (28)": {
+    "advice": "Handle normal_chat appropriately",
+    "punishment": "No punishment",
+    "trigger_type": "normal_chat",
+    "severity": 1
+  },
+  "he requested to be unblocked politely (1)": {
+    "advice": "Handle unblock_request appropriately",
+    "punishment": "80 sorries",
+    "trigger_type": "unblock_request",
+    "severity": 4
+  },
+  "he asked for one more chance (2)": {
+    "advice": "Handle unblock_request appropriately",
+    "punishment": "80 sorries",
+    "trigger_type": "unblock_request",
+    "severity": 4
+  },
+  "he promised not to repeat the mistake (3)": {
+    "advice": "Handle unblock_request appropriately",
+    "punishment": "80 sorries",
+    "trigger_type": "unblock_request",
+    "severity": 4
+  },
+  "he requested forgiveness respectfully (4)": {
+    "advice": "Handle unblock_request appropriately",
+    "punishment": "80 sorries",
+    "trigger_type": "unblock_request",
+    "severity": 4
+  },
+  "he asked when he could talk again (5)": {
+    "advice": "Handle unblock_request appropriately",
+    "punishment": "80 sorries",
+    "trigger_type": "unblock_request",
+    "severity": 4
+  },
+  "he requested to be unblocked politely (6)": {
+    "advice": "Handle unblock_request appropriately",
+    "punishment": "80 sorries",
+    "trigger_type": "unblock_request",
+    "severity": 4
+  },
+  "he asked for one more chance (7)": {
+    "advice": "Handle unblock_request appropriately",
+    "punishment": "80 sorries",
+    "trigger_type": "unblock_request",
+    "severity": 4
+  },
+  "he promised not to repeat the mistake (8)": {
+    "advice": "Handle unblock_request appropriately",
+    "punishment": "80 sorries",
+    "trigger_type": "unblock_request",
+    "severity": 4
+  },
+  "he requested forgiveness respectfully (9)": {
+    "advice": "Handle unblock_request appropriately",
+    "punishment": "80 sorries",
+    "trigger_type": "unblock_request",
+    "severity": 4
+  },
+  "he asked when he could talk again (10)": {
+    "advice": "Handle unblock_request appropriately",
+    "punishment": "80 sorries",
+    "trigger_type": "unblock_request",
+    "severity": 4
+  },
+  "he requested to be unblocked politely (11)": {
+    "advice": "Handle unblock_request appropriately",
+    "punishment": "80 sorries",
+    "trigger_type": "unblock_request",
+    "severity": 4
+  },
+  "he asked for one more chance (12)": {
+    "advice": "Handle unblock_request appropriately",
+    "punishment": "80 sorries",
+    "trigger_type": "unblock_request",
+    "severity": 4
+  },
+  "he promised not to repeat the mistake (13)": {
+    "advice": "Handle unblock_request appropriately",
+    "punishment": "80 sorries",
+    "trigger_type": "unblock_request",
+    "severity": 4
+  },
+  "he requested forgiveness respectfully (14)": {
+    "advice": "Handle unblock_request appropriately",
+    "punishment": "80 sorries",
+    "trigger_type": "unblock_request",
+    "severity": 4
+  },
+  "he asked when he could talk again (15)": {
+    "advice": "Handle unblock_request appropriately",
+    "punishment": "80 sorries",
+    "trigger_type": "unblock_request",
+    "severity": 4
+  },
+  "he requested to be unblocked politely (16)": {
+    "advice": "Handle unblock_request appropriately",
+    "punishment": "80 sorries",
+    "trigger_type": "unblock_request",
+    "severity": 4
+  },
+  "he asked for one more chance (17)": {
+    "advice": "Handle unblock_request appropriately",
+    "punishment": "80 sorries",
+    "trigger_type": "unblock_request",
+    "severity": 4
+  },
+  "he promised not to repeat the mistake (18)": {
+    "advice": "Handle unblock_request appropriately",
+    "punishment": "80 sorries",
+    "trigger_type": "unblock_request",
+    "severity": 4
+  },
+  "he requested forgiveness respectfully (19)": {
+    "advice": "Handle unblock_request appropriately",
+    "punishment": "80 sorries",
+    "trigger_type": "unblock_request",
+    "severity": 4
+  },
+  "he asked when he could talk again (20)": {
+    "advice": "Handle unblock_request appropriately",
+    "punishment": "80 sorries",
+    "trigger_type": "unblock_request",
+    "severity": 4
+  },
+  "he requested to be unblocked politely (21)": {
+    "advice": "Handle unblock_request appropriately",
+    "punishment": "80 sorries",
+    "trigger_type": "unblock_request",
+    "severity": 4
+  },
+  "he asked for one more chance (22)": {
+    "advice": "Handle unblock_request appropriately",
+    "punishment": "80 sorries",
+    "trigger_type": "unblock_request",
+    "severity": 4
+  },
+  "he promised not to repeat the mistake (23)": {
+    "advice": "Handle unblock_request appropriately",
+    "punishment": "80 sorries",
+    "trigger_type": "unblock_request",
+    "severity": 4
+  },
+  "he requested forgiveness respectfully (24)": {
+    "advice": "Handle unblock_request appropriately",
+    "punishment": "80 sorries",
+    "trigger_type": "unblock_request",
+    "severity": 4
+  },
+  "he asked when he could talk again (25)": {
+    "advice": "Handle unblock_request appropriately",
+    "punishment": "80 sorries",
+    "trigger_type": "unblock_request",
+    "severity": 4
+  },
+  "he requested to be unblocked politely (26)": {
+    "advice": "Handle unblock_request appropriately",
+    "punishment": "80 sorries",
+    "trigger_type": "unblock_request",
+    "severity": 4
+  },
+  "he asked for one more chance (27)": {
+    "advice": "Handle unblock_request appropriately",
+    "punishment": "80 sorries",
+    "trigger_type": "unblock_request",
+    "severity": 4
+  },
+  "he promised not to repeat the mistake (28)": {
+    "advice": "Handle unblock_request appropriately",
+    "punishment": "80 sorries",
+    "trigger_type": "unblock_request",
+    "severity": 4
+  },
+  "he asked why i had not replied yet (1)": {
+    "advice": "Handle demanding_reply appropriately",
+    "punishment": "120 sorries",
+    "trigger_type": "demanding_reply",
+    "severity": 6
+  },
+  "he demanded an immediate response (2)": {
+    "advice": "Handle demanding_reply appropriately",
+    "punishment": "120 sorries",
+    "trigger_type": "demanding_reply",
+    "severity": 6
+  },
+  "he complained about being ignored (3)": {
+    "advice": "Handle demanding_reply appropriately",
+    "punishment": "120 sorries",
+    "trigger_type": "demanding_reply",
+    "severity": 6
+  },
+  "he kept asking if i saw the message (4)": {
+    "advice": "Handle demanding_reply appropriately",
+    "punishment": "120 sorries",
+    "trigger_type": "demanding_reply",
+    "severity": 6
+  },
+  "he insisted on getting a reply now (5)": {
+    "advice": "Handle demanding_reply appropriately",
+    "punishment": "120 sorries",
+    "trigger_type": "demanding_reply",
+    "severity": 6
+  },
+  "he asked why i had not replied yet (6)": {
+    "advice": "Handle demanding_reply appropriately",
+    "punishment": "120 sorries",
+    "trigger_type": "demanding_reply",
+    "severity": 6
+  },
+  "he demanded an immediate response (7)": {
+    "advice": "Handle demanding_reply appropriately",
+    "punishment": "120 sorries",
+    "trigger_type": "demanding_reply",
+    "severity": 6
+  },
+  "he complained about being ignored (8)": {
+    "advice": "Handle demanding_reply appropriately",
+    "punishment": "120 sorries",
+    "trigger_type": "demanding_reply",
+    "severity": 6
+  },
+  "he kept asking if i saw the message (9)": {
+    "advice": "Handle demanding_reply appropriately",
+    "punishment": "120 sorries",
+    "trigger_type": "demanding_reply",
+    "severity": 6
+  },
+  "he insisted on getting a reply now (10)": {
+    "advice": "Handle demanding_reply appropriately",
+    "punishment": "120 sorries",
+    "trigger_type": "demanding_reply",
+    "severity": 6
+  },
+  "he asked why i had not replied yet (11)": {
+    "advice": "Handle demanding_reply appropriately",
+    "punishment": "120 sorries",
+    "trigger_type": "demanding_reply",
+    "severity": 6
+  },
+  "he demanded an immediate response (12)": {
+    "advice": "Handle demanding_reply appropriately",
+    "punishment": "120 sorries",
+    "trigger_type": "demanding_reply",
+    "severity": 6
+  },
+  "he complained about being ignored (13)": {
+    "advice": "Handle demanding_reply appropriately",
+    "punishment": "120 sorries",
+    "trigger_type": "demanding_reply",
+    "severity": 6
+  },
+  "he kept asking if i saw the message (14)": {
+    "advice": "Handle demanding_reply appropriately",
+    "punishment": "120 sorries",
+    "trigger_type": "demanding_reply",
+    "severity": 6
+  },
+  "he insisted on getting a reply now (15)": {
+    "advice": "Handle demanding_reply appropriately",
+    "punishment": "120 sorries",
+    "trigger_type": "demanding_reply",
+    "severity": 6
+  },
+  "he asked why i had not replied yet (16)": {
+    "advice": "Handle demanding_reply appropriately",
+    "punishment": "120 sorries",
+    "trigger_type": "demanding_reply",
+    "severity": 6
+  },
+  "he demanded an immediate response (17)": {
+    "advice": "Handle demanding_reply appropriately",
+    "punishment": "120 sorries",
+    "trigger_type": "demanding_reply",
+    "severity": 6
+  },
+  "he complained about being ignored (18)": {
+    "advice": "Handle demanding_reply appropriately",
+    "punishment": "120 sorries",
+    "trigger_type": "demanding_reply",
+    "severity": 6
+  },
+  "he kept asking if i saw the message (19)": {
+    "advice": "Handle demanding_reply appropriately",
+    "punishment": "120 sorries",
+    "trigger_type": "demanding_reply",
+    "severity": 6
+  },
+  "he insisted on getting a reply now (20)": {
+    "advice": "Handle demanding_reply appropriately",
+    "punishment": "120 sorries",
+    "trigger_type": "demanding_reply",
+    "severity": 6
+  },
+  "he asked why i had not replied yet (21)": {
+    "advice": "Handle demanding_reply appropriately",
+    "punishment": "120 sorries",
+    "trigger_type": "demanding_reply",
+    "severity": 6
+  },
+  "he demanded an immediate response (22)": {
+    "advice": "Handle demanding_reply appropriately",
+    "punishment": "120 sorries",
+    "trigger_type": "demanding_reply",
+    "severity": 6
+  },
+  "he complained about being ignored (23)": {
+    "advice": "Handle demanding_reply appropriately",
+    "punishment": "120 sorries",
+    "trigger_type": "demanding_reply",
+    "severity": 6
+  },
+  "he kept asking if i saw the message (24)": {
+    "advice": "Handle demanding_reply appropriately",
+    "punishment": "120 sorries",
+    "trigger_type": "demanding_reply",
+    "severity": 6
+  },
+  "he insisted on getting a reply now (25)": {
+    "advice": "Handle demanding_reply appropriately",
+    "punishment": "120 sorries",
+    "trigger_type": "demanding_reply",
+    "severity": 6
+  },
+  "he asked why i had not replied yet (26)": {
+    "advice": "Handle demanding_reply appropriately",
+    "punishment": "120 sorries",
+    "trigger_type": "demanding_reply",
+    "severity": 6
+  },
+  "he demanded an immediate response (27)": {
+    "advice": "Handle demanding_reply appropriately",
+    "punishment": "120 sorries",
+    "trigger_type": "demanding_reply",
+    "severity": 6
+  },
+  "he complained about being ignored (28)": {
+    "advice": "Handle demanding_reply appropriately",
+    "punishment": "120 sorries",
+    "trigger_type": "demanding_reply",
+    "severity": 6
+  },
+  "he called me nonsense8": {
+    "advice": "Handle demanding_reply appropriately",
+    "punishment": "2000 sorries",
+    "trigger_type": "teasing",
+    "severity": 10
+  },
+  "he called me idiot": {
+    "advice": "Handle demanding_reply appropriately",
+    "punishment": "1000 sorries",
+    "trigger_type": "teasing",
+    "severity": 9
+  },
+  "he called me cute": {
+    "advice": "Handle demanding_reply appropriately",
+    "punishment": "10 sorries",
+    "trigger_type": "flirting",
+    "severity": 5
+  }
+}
